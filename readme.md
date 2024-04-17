@@ -1,4 +1,4 @@
-哈基米（https://hajimi.icu ）
+哈基米(https://hajimi.icu)
 
 官网地址：
 
